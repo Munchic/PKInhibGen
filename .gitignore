@@ -1,0 +1,7 @@
+datasets/*
+store/*
+.DS_Store
+.ipynb_checkpoints
+.vscode
+_pycache_
+__pycache__
